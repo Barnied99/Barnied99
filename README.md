@@ -15,18 +15,23 @@ Ambitious software developer with 1.5+ years of experience increating complicate
   <br><br>
 ## Tech stack:
 
-- React.js
-- Next.js
+- React
+- Next
 - Typescript
+- Javascript
+- RestApi
+- JWT
 - Jest
-- Redux
-- Styled Components
+- Redux(Saga,Toolkit,Tanstack Query)
+- React Hook Form
+- Mantine
 - HTML
 - CSS
-- Javascript
 - Webpack
 - Docker
 - MongoDB
+- Node.js
+- Express.js
 - Git
   <br><br>
 
