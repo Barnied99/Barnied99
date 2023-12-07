@@ -47,6 +47,6 @@ Bachelor of Belarusian National Technical University<br>
 [Belarusian National Technical University](https://bntu.by/) - Minsk, Belarus _(2016 - 2021)_
 <br><br>
 
-## Courses
+## Tasks
+[![codewars](https://www.codewars.com/users/Barnied99@/badges/small)](https://www.codewars.com/users/Barnied99@) 
 
--
