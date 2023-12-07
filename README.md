@@ -48,5 +48,5 @@ Bachelor of Belarusian National Technical University<br>
 <br><br>
 
 ## Tasks
-[![codewars](https://www.codewars.com/users/Barnied99@/badges/large)](https://www.codewars.com/users/Barnied99@) 
+[![codewars](https://www.codewars.com/users/Barnied99@/badges/small)](https://www.codewars.com/users/Barnied99@) 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=barnied99&theme=dark)](https://github.com/barnied99/leetcode-stats)
